@@ -5,11 +5,12 @@ Sniffy is a lightweight Python network sniffer built with Scapy. It intercepts r
 📸 Demo
 -------------------
 
+![Sniffy in action](Screenshot.jpg)
 
 
-**🚀 Features
+🚀 Features
 -------------------
-**Multi-Protocol Support: Deep analysis of TCP, UDP, and ICMP traffic.
+Multi-Protocol Support: Deep analysis of TCP, UDP, and ICMP traffic.
 
 Service Mapping: Automatically translates common port numbers (80, 443, 22, etc.) into service names.
 
