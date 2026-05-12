@@ -5,7 +5,7 @@ Sniffy is a lightweight Python network sniffer built with Scapy. It intercepts r
 📸 Demo
 -------------------
 
-![Sniffy in action](Screenshot.jpg)
+![Sniffy in action](screenshot.jpg)
 
 
 🚀 Features
